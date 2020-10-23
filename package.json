@@ -6,8 +6,8 @@
     "dist"
   ],
   "main": "dist/index.js",
-  "module": "dist/index.umd.js",
-  "web": "dist/index.es.js",
+  "module": "dist/index.es.js",
+  "web": "dist/index.umd.js",
   "typings": "dist/types/index.d.ts",
   "scripts": {
     "build": "rollup -c && tsc -p ./tsconfig.types.json",
