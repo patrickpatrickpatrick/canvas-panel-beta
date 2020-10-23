@@ -1,6 +1,4 @@
 node_modules
-dist
-lib
 *.log
 *.tsbuildinfo
 .idea/workspace.xml
